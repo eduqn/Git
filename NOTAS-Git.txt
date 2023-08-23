@@ -1,0 +1,31 @@
+***** GIT *****
+Git - Software de Controle de Versão;
+GitHub - Plataforma de rede social de programadores;
+
+>> VERSIONAMENTO (VCS)
+Tipo: centralizado/linear
+- CA Software Change Manager (CCC)
+- Source Code Control System (SCCS)
+- Panvalet
+- Concurrent Version System (CVS)
+- Apache Subversion (SVN)
+- ClearCase
+- Visual SourceSafe
+- Perforce
+
+Tipo: distribuido
+- Mercurial
+- Bazaar
+- Code Co-op
+- GNU arch
+- Monotone
+- Fossil
+- BitKeeper
+- Git
+
+>> Vantagens
+- Controle de histórico
+- Trabalho em equipe
+- Ramificação do projeto
+- Segurança
+
